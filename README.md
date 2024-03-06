@@ -1,5 +1,5 @@
 # Text_Summarization-using-nlp
-There is two types of summarization:
+There is two types of summarization:\n
 1.Extractive
 2.Abstractive
 ![Screenshot (350)](https://github.com/rohith0510/Text_Summarization-using-nlp/assets/63388606/ab793b99-b347-42b3-8222-d16d9c35882f)
