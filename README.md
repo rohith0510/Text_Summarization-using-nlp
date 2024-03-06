@@ -2,7 +2,8 @@
 There is two types of summarization:<br>
 <p>1.Extractive</p>
 <p>2.Abstractive</p><br>
-<h6><Extractive: </h6>
+<h6> Extractive:  </h6> <p>Extractive summarization techniques select and combine sentences from the text</p>
+<h6> Abstractive:  </h6> <p> abstractive summarization techniques generate new sentences that maintain the original essence</p>
 ![Screenshot (350)](https://github.com/rohith0510/Text_Summarization-using-nlp/assets/63388606/ab793b99-b347-42b3-8222-d16d9c35882f)
 
 # It imports necessary modules and libraries, including tkinter for GUI, scipy for natural language processing, Counter for counting occurrences, and nlargest for obtaining the top N elements from a list.
